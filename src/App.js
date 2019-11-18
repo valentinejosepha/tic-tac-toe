@@ -1,6 +1,6 @@
 import React from 'react';
 import TicTactToe from './components/TicTacToe';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
